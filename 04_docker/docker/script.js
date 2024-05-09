@@ -1,10 +1,11 @@
 let u_string;
-let myMap = new Map([[u_string, "THIS IS DEMONSTRATION OF GitHub CONCEPT"]]);
+let myMap = new Map([[u_string, "THIS IS DEMONSTRATION OF Docker CONCEPT"]]);
 
 // Accessing values from the Map
 console.log(myMap.get(u_string));
 
 // OTHER STUFF
+// TURN ON DOCKER ENGINE
 // docker --version
 // node script.js
 // docker build -t docker .
