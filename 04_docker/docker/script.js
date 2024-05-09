@@ -5,7 +5,10 @@ let myMap = new Map([[u_string, "THIS IS DEMONSTRATION OF Docker CONCEPT"]]);
 console.log(myMap.get(u_string));
 
 // OTHER STUFF
+
 // TURN ON DOCKER ENGINE
+
+// NOW IN VSCODE=>TERMINAL
 // docker --version
 // node script.js
 // docker build -t docker .
